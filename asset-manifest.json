@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/front-end/static/css/main.6f613bb2.chunk.css",
+    "main.js": "/front-end/static/js/main.287933f5.chunk.js",
+    "main.js.map": "/front-end/static/js/main.287933f5.chunk.js.map",
+    "runtime~main.js": "/front-end/static/js/runtime~main.49b977b0.js",
+    "runtime~main.js.map": "/front-end/static/js/runtime~main.49b977b0.js.map",
+    "static/css/2.afea85e8.chunk.css": "/front-end/static/css/2.afea85e8.chunk.css",
+    "static/js/2.d89626e1.chunk.js": "/front-end/static/js/2.d89626e1.chunk.js",
+    "static/js/2.d89626e1.chunk.js.map": "/front-end/static/js/2.d89626e1.chunk.js.map",
+    "index.html": "/front-end/index.html",
+    "precache-manifest.70bd77faea29154e270a5befa57811ca.js": "/front-end/precache-manifest.70bd77faea29154e270a5befa57811ca.js",
+    "service-worker.js": "/front-end/service-worker.js",
+    "static/css/2.afea85e8.chunk.css.map": "/front-end/static/css/2.afea85e8.chunk.css.map",
+    "static/css/main.6f613bb2.chunk.css.map": "/front-end/static/css/main.6f613bb2.chunk.css.map",
+    "static/media/NotFoundPage.css": "/front-end/static/media/bg.3644ee70.jpg",
+    "static/media/logo.svg": "/front-end/static/media/logo.1ea2d346.svg"
+  }
+}
